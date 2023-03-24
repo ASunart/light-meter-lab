@@ -22,7 +22,6 @@ void loop() {
     digitalWrite(5,HIGH);
     digitalWrite(7,HIGH);
   } else {
-    digitalWrite(2,LOW);
     digitalWrite(3,LOW);
     digitalWrite(4,LOW);
     digitalWrite(5,LOW);
